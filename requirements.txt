@@ -1,0 +1,6 @@
+# chopsticks
+git+https://github.com/amigrave/chopsticks.git@odoo#egg=chopsticks
+docopt
+requests
+sh==1.12.14
+werkzeug
